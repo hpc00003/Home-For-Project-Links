@@ -1,6 +1,7 @@
-## Home-For-Project-Links
+# Home For Project Links
 Contains a Read me with links to various completed projects
-# My Highschool Projects
+Henry Coyle
+## Robotics Projects
 
 Here are a few of my projects, organized by category:
 
