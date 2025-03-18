@@ -1,5 +1,5 @@
 # Home For Project Links
-Contains a Read me with links to various completed projects
+Contains a Read me with links to various completed projects (all from highs school)
 
 Creator: Henry Coyle
 ## Robotics Projects
