@@ -14,6 +14,22 @@ This project involves building a quadcopter that acquires flight data using a Ra
 A collaborative project that uses flex sensors to control a robotic hand, mimicking human finger movements.  
 [View on GitHub](https://github.com/DylnH/Robotic-Hand/blob/main/README.md#collaborators)
 
-## 3. Simple Raspberry Pi Projects
+## 3. Useless Box Development
+My useless box project.  
+[View on GitHub](https://github.com/hcoyle91/Useless-Box)
+
+## 4. Simple Raspberry Pi Projects
 A collection of simple projects using Raspberry Pi, focused on learning and experimentation.  
-[View on GitHub](https://github.com/hcoyle91?tab=repositories)
+[View on GitHub](https://github.com/hcoyle91/Engineering_4_Notebook)
+
+## 5. Basic CAD Projects
+A collection of my Onshape designs.  
+[View on GitHub](https://github.com/hcoyle91/BasicCAD)
+
+## 6. PID Box Development
+My project building a box with PID control of a wheel.
+[View on GitHub](https://github.com/hcoyle91/PID-Box)
+
+## 7. Simple Arduino Projects
+A collection of simple projects using an Arduino Uno.  
+[View on GitHub](https://github.com/hcoyle91/Arduino?tab=readme-ov-file)
