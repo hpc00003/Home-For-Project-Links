@@ -19,11 +19,11 @@ My useless box project.
 [View on GitHub](https://github.com/hcoyle91/Useless-Box)
 
 ## 4. Simple Raspberry Pi Projects
-A collection of simple projects using Raspberry Pi, focused on learning and experimentation.  
+A collection of simple projects using Raspberry Pi, focused on learning and experimentation.
 [View on GitHub](https://github.com/hcoyle91/Engineering_4_Notebook)
 
 ## 5. Basic CAD Projects
-A collection of my Onshape designs.  
+A collection of my Onshape designs.
 [View on GitHub](https://github.com/hcoyle91/BasicCAD)
 
 ## 6. PID Box Development
